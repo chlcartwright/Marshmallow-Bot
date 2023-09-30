@@ -11,5 +11,5 @@ A multifunctional bot that handles administration, fun and more.
 - Run start.py
  
 ### Languages:
-Python
-SQL
+- Python
+- SQL
